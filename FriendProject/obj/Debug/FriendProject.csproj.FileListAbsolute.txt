@@ -1,0 +1,37 @@
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\FriendProject.exe.config
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\FriendProject.exe
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\FriendProject.pdb
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\Desktop\FriendProject\FriendProject\obj\Debug\FriendProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FriendProject\FriendProject\obj\Debug\FriendProject.Form1.resources
+C:\Users\User\Desktop\FriendProject\FriendProject\obj\Debug\FriendProject.Properties.Resources.resources
+C:\Users\User\Desktop\FriendProject\FriendProject\obj\Debug\FriendProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FriendProject\FriendProject\obj\Debug\FriendProject.exe
+C:\Users\User\Desktop\FriendProject\FriendProject\obj\Debug\FriendProject.pdb
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\FriendProject.exe.config
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\FriendProject.exe
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\FriendProject.pdb
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\obj\Debug\FriendProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\obj\Debug\FriendProject.Form1.resources
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\obj\Debug\FriendProject.Properties.Resources.resources
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\obj\Debug\FriendProject.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\obj\Debug\FriendProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\obj\Debug\FriendProject.exe
+C:\Users\User\Desktop\Mühendislik projesi-4\FriendProject\FriendProject\obj\Debug\FriendProject.pdb
